@@ -1,0 +1,62 @@
+.mail-container {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+table {
+    max-width: 600px;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+}
+
+td {
+    padding: 20px 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+td img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+td.bg-white {
+    background-color: #ffffff;
+}
+
+td h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+td p {
+    margin: 0;
+}
+
+td.center {
+    text-align: center;
+}
+
+td.bg-blue {
+    background-color: #3D94CA;
+    border-radius: 5px;
+}
+
+a.CTA-button {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 30px;
+    border: 1px solid #3D94CA;
+    display: inline-block;
+    background-color: #3D94CA;
+    border-radius: 5px;
+}
